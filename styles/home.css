@@ -1,0 +1,8 @@
+.template {
+    position: relative;
+    width: 750px;
+    height: 900px;
+    margin-top: 30px;
+    border-radius: 2px;
+    box-shadow: 3px 10px 50px 10px darkgray;
+}
