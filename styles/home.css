@@ -1,5 +1,7 @@
 .template {
     position: relative;
+    display: grid;
+    grid-template-columns: 240px 1fr;
     width: 750px;
     height: 900px;
     margin-top: 30px;
