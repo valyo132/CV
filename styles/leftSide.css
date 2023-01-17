@@ -32,13 +32,13 @@
 }
 
 .info-title {
-    font-size: 18px;
+    font-size: 17px;
     padding: 10px;
     color: white;
     display: flex;
     justify-content: center;
     border-bottom: 2px solid white;
-    margin-bottom: 7px;
+    margin-bottom: 14px;
 }
 
 .info-holder {
